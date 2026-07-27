@@ -2,7 +2,7 @@ class MyHashSet {
     private boolean[] set;
 
     public MyHashSet() {
-        // Constraint: 0 <= key <= 10^6
+        
         set = new boolean[1000001];
     }
 
